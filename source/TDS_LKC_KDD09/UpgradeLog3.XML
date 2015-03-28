@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PrivacyTD">
+</Property><Property Name="Solution File" Value="C:\Users\Ben\Desktop\paisDistribution\source\TDS_LKC_KDD09\PrivacyTD.sln">
+</Property><Property Name="Date" Value="May-24-12">
+</Property><Property Name="Time" Value="2:08 AM">
+</Property><Property Name="Log Number" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="BFLib" Source="..\BFLib\BFLib.vcproj" Description="Converting project file 'C:\Users\Ben\Desktop\paisDistribution\source\BFLib\BFLib.vcproj'.">
+</Event><Event ErrorLevel="1" Project="BFLib" Source="..\BFLib\BFLib.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="BFLib" Source="..\BFLib\BFLib.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Ben\Desktop\paisDistribution\source\BFLib\.\Debug\BFLib.lib') does not match the Librarian's OutputFile property value '.\Debug\BFLib.lib' ('C:\Users\Ben\Desktop\paisDistribution\source\TDS_LKC_KDD09\Debug\BFLib.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="BFLib" Source="..\BFLib\BFLib.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Ben\Desktop\paisDistribution\source\BFLib\.\Release\BFLib.lib') does not match the Librarian's OutputFile property value '.\Release\BFLib.lib' ('C:\Users\Ben\Desktop\paisDistribution\source\TDS_LKC_KDD09\Release\BFLib.lib') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="BFLib" Source="..\BFLib\BFLib.vcproj" Description="Done converting to new project file 'C:\Users\Ben\Desktop\paisDistribution\source\BFLib\BFLib.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="BFLib" Source="..\BFLib\BFLib.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PrivacyTD" Source="PrivacyTD.vcproj" Description="Converting project file 'C:\Users\Ben\Desktop\paisDistribution\source\TDS_LKC_KDD09\PrivacyTD.vcproj'.">
+</Event><Event ErrorLevel="1" Project="PrivacyTD" Source="PrivacyTD.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="PrivacyTD" Source="PrivacyTD.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Ben\Desktop\paisDistribution\source\TDS_LKC_KDD09\.\Debug\PrivacyTD.exe') does not match the Linker's OutputFile property value '.\Debug/PrivacyTD.exe' ('C:\Users\Ben\Desktop\paisDistribution\source\TDS_LKC_KDD09\Debug/PrivacyTD.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="PrivacyTD" Source="PrivacyTD.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\Ben\Desktop\paisDistribution\source\TDS_LKC_KDD09\.\Release\PrivacyTD.exe') does not match the Linker's OutputFile property value '.\Release/PrivacyTD.exe' ('C:\Users\Ben\Desktop\paisDistribution\source\TDS_LKC_KDD09\Release/PrivacyTD.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="PrivacyTD" Source="PrivacyTD.vcproj" Description="Done converting to new project file 'C:\Users\Ben\Desktop\paisDistribution\source\TDS_LKC_KDD09\PrivacyTD.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="PrivacyTD" Source="PrivacyTD.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PrivacyTD.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PrivacyTD.sln" Description="Converted">
+</Event></UpgradeLog>
