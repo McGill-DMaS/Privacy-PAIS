@@ -1,7 +1,9 @@
 # PAIS
 Centralized and distributed anonymization for high-dimensional healthcare data [TKDD 2010] 
 
-Copyright 2010 Noman Mohammed and Benjamin C. M. Fung
+License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+
+Owners: Noman Mohammed and Benjamin C. M. Fung
 
 Publications:
 
